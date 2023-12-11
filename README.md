@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/daniel-patnode/) 
 
 
 # 💻Tech Stack
